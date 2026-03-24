@@ -20,7 +20,7 @@ lives = 3
 lives_font = pygame.font.Font(None, 72)  # Font for displaying lives
 
 # Load and play background music
-pygame.mixer.music.load('AUDIO2.mp3')
+pygame.mixer.music.load('AUDIO2.ogg')
 pygame.mixer.music.play(-1)  # -1 means loop indefinitely
 pygame.mixer.music.set_volume(0.15)
 

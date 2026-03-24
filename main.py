@@ -45,7 +45,7 @@ try:
     car_image = pygame.image.load('CARROs.png')
     car_image = pygame.transform.scale(car_image, (car_width, car_height))
     obstacle_image = pygame.image.load('images.jpg')
-    pygame.mixer.music.load('AUDIO2.mp3')
+    pygame.mixer.music.load('AUDIO2.ogg')
 except Exception as e:
     print(f"Error loading assets: {e}")
 

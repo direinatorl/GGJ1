@@ -5,7 +5,7 @@ a = Analysis(
     ['carros.py'],
     pathex=[],
     binaries=[],
-    datas=[('CARROs.png', '.'), ('images.jpg', '.'), ('AUDIO2.mp3', '.')],
+    datas=[('CARROs.png', '.'), ('images.jpg', '.'), ('AUDIO2.ogg', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
